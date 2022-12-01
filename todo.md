@@ -1,13 +1,9 @@
-- Create package PubSub
-- Make Readme/wiki for the package
-- Make wiki for Debugging PubSub
-
-- Create package ClientServer 
-- Make Readme/wiki for the package
-- Make wiki for Debugging PubSub
-
-- Create package CustomInterface
-- Make Readme/wiki for the package
-- Make wiki for Debugging PubSub
-
-- Launch file
+- Create package PubSub - Done
+- Make Readme/wiki for the package - Done
+- Create package ClientServer - Done
+- Make Readme/wiki for the package - Done
+- Create package CustomInterface - Done
+- Make Readme/wiki for the package - Done
+- Make CLI notes - Done
+- Launch file - WIP
+- Action - WIP

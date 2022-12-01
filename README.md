@@ -28,7 +28,7 @@ echo "source /home/install/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 ```
 
-You are all set to build and test your packages. For more detailed steps, refer [Setup Guide](https://github.com/Ankur-singh/myyolov7/wiki/ROS2-101) from here.
+You are all set to build and test your packages. For more detailed steps, refer [Setup Guide](/guides/setup.md) from here.
 
 ## Lessons:
 
